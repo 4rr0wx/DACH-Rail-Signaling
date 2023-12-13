@@ -2,7 +2,7 @@
 title: Quellen
 description: Ansammlung aller Quellen
 published: 1
-date: 2023-12-13T11:55:10.194Z
+date: 2023-12-13T11:55:14.782Z
 tags: info
 editor: markdown
 dateCreated: 2023-12-13T11:55:10.194Z
